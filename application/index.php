@@ -224,7 +224,7 @@ $nextLogEntry = $thisLogEntry + 1;
 
 
 
-<?php ?><
+<?php ?>
 
 
 
